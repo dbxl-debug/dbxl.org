@@ -6,8 +6,8 @@ use XOR;
 
 my $xor = XOR->new(
   root => '.',
-  org  => 'tico-edit',
-  site_name => 'tico',
+  org  => 'dbxl-debug',
+  site_name => 'dbxl',
 );
 
 $xor->builder->build;
