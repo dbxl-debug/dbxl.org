@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This is the source for the dbxl debugger project website, https://dbxl-debug.github.io.
+This is the source for the dbxl debugger project website, https://dbxl.org.
 The production site is served by GitHub Pages from the `docs/` directory.
 
 ## How the site is built
